@@ -8,7 +8,7 @@ Administrador de Sistemas especializado en entornos Windows y Linux, con una cla
 
 ## 📌 Sobre mí
 
-Soy un técnico en sistemas con formación en ASIR, experiencia en soporte remoto y presencial, y familiaridad con tareas de automatización. Me encuentro en continuo desarrollo con el objetivo de especializarme en ciberseguridad, tanto en su vertiente ofensiva (pentesting, CTF, pruebas de intrusión) como defensiva (protección de sistemas, respuesta ante incidentes, hardening).
+Soy un Administrador en sistemas con formación en ASIR, experiencia en soporte remoto y presencial, y familiaridad con tareas de automatización. Me encuentro en continuo desarrollo con el objetivo de especializarme en ciberseguridad, tanto en su vertiente ofensiva (pentesting, CTF, pruebas de intrusión) como defensiva (protección de sistemas, respuesta ante incidentes, hardening).
 
 ---
 
