@@ -1,5 +1,4 @@
-![Banner](./banner.png)
-![Banner](./banner.png)
+![Banner](./_banner.png)
 
 # 👨‍💻 Rubén Sánchez Gutiérrez
 
