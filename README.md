@@ -86,12 +86,6 @@ Actualmente cuento con la certificación eJPTv2 y me estoy preparando para eCPPT
 
 ---
 
-## 🎯 Objetivo Profesional
-
-Mi objetivo es crecer como profesional de TI con un enfoque claro hacia la **ciberseguridad ofensiva y defensiva**, participando en entornos de pruebas, despliegues simulados y análisis de incidentes. Actualmente estoy desarrollando un entorno CTF automatizado como proyecto de fin de grado.
-
----
-
 ## 📬 Contacto
 
 - 📧 Email: [rubensgbusiness@gmail.com](mailto:rubensgbusiness@gmail.com)
