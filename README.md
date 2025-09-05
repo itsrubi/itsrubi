@@ -11,6 +11,33 @@ Administrador de Sistemas especializado en entornos Windows y Linux, con una cla
 Soy un Administrador en sistemas con formación en ASIR, experiencia en soporte remoto y presencial, y familiaridad con tareas de automatización. Me encuentro en continuo desarrollo con el objetivo de especializarme en ciberseguridad, tanto en su vertiente ofensiva (pentesting, CTF, pruebas de intrusión) como defensiva (protección de sistemas, respuesta ante incidentes, hardening).
 
 ---
+## 📚 Conocimientos en Ciberseguridad
+
+- **Reconocimiento y OSINT**:  
+  Escaneo avanzado con Nmap (evasión de firewalls, scripts NSE, creación de scripts en Lua), técnicas de descubrimiento en red (ARP, ICMP), enumeración de subdominios, Google Hacking, fingerprinting de SO, obtención de credenciales y fugas de información.  
+
+- **Enumeración de Servicios y CMS**:  
+  Análisis y explotación inicial en FTP, SSH, SMB, HTTP/HTTPS, así como enumeración de gestores de contenido (WordPress, Joomla, Drupal, Magento).  
+
+- **Explotación de Vulnerabilidades**:  
+  Reverse/Bind shells, payloads staged y non-staged, explotación manual y automatizada, uso de BurpSuite, enumeración de sistemas comprometidos, **pivoting en entornos internos**.  
+
+- **OWASP Top 10 y Vulnerabilidades Web Avanzadas**:  
+  SQLi, XSS, XXE, LFI/RFI, CSRF, SSRF, SSTI, IDOR, ataques en JWT y GraphQL, deserialización, NoSQLi, LDAPi, Prototype Pollution, ShellShock, CORS, Mass Assignment, Open Redirect, entre otros.  
+
+- **Escalada de Privilegios en Linux**:  
+  Abuso de sudoers, SUID, cronjobs, PATH Hijacking, Python Library Hijacking, capabilities, exploits de kernel, servicios internos, Docker breakout y secuestro de librerías compartidas.  
+
+- **Explotación de Active Directory**:  
+  Conocimientos prácticos en técnicas como **Kerberoasting, AS-REP Roasting, Overpass-the-Hash, Pass-the-Ticket, Golden Ticket, Silver Ticket, DCSync, Skeleton Key, Ticket Harvesting**.  
+
+- **Explotación Binaria (Buffer Overflow)**:  
+  Creación de laboratorio en Windows con Immunity Debugger, fuzzing y control de EIP, badchars, búsqueda de opcodes, ejecución de shellcode, explotación manual de binarios, creación y modificación de shellcodes.  
+
+- **Reporting y Documentación**:  
+  Elaboración de informes técnicos y profesionales en **LaTeX**, siguiendo la estructura de un reporte de pentesting.  
+
+---
 
 ## 🛠️ Habilidades Técnicas
 
@@ -24,6 +51,15 @@ Soy un Administrador en sistemas con formación en ASIR, experiencia en soporte 
 ---
 
 ## 💼 Experiencia Profesional
+
+### 🏢 SysAdmin  
+**07/2025 – 08/2025 | AracnoSoft S.L. | La Coruña, España**
+
+- Montaje, configuración y gestión de servidores.  
+- Administración y soporte de redes corporativas con **Panda Cytomic**.  
+- Implementación y gestión de **VPNs**.  
+- Soporte técnico y resolución de incidencias a nivel de infraestructura.  
+- Gestión de servicios de red y seguridad perimetral. 
 
 ### 🏢 Administrador de Sistemas (Prácticas)
 **02/2025 – 05/2025 | Zamora, España**
